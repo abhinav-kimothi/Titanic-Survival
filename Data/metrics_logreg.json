@@ -1,0 +1,1 @@
+{"model": [{"model_name": "Logistic Regression", "best_parameters": {"C": 0.1, "max_iter": 10000, "penalty": "l2", "solver": "newton-cg"}, "accuracy_score_train": 83.57, "accuracy_score_test": 79.89, "precision_score_test": 77.14, "recall_score_test": 72.97, "f1_score_test": 75.0, "roc_auc_score_test": 88.52}]}

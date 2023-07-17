@@ -1,0 +1,1 @@
+{"model": [{"model_name": "XGB Classifier", "best_parameters": {"colsample_bytree": 0.3, "gamma": 0.25, "learning_rate": 0.05, "max_depth": 3, "n_estimators": 100, "reg_lambda": 0.1}, "accuracy_score_train": 85.96, "accuracy_score_test": 83.24, "precision_score_test": 81.43, "recall_score_test": 77.03, "f1_score_test": 79.17, "roc_auc_score_test": 89.42}]}

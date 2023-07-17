@@ -1,0 +1,1 @@
+{"model": [{"model_name": "Bagging Classifier", "best_parameters": {"max_features": 0.2, "max_samples": 0.3, "n_estimators": 300}, "accuracy_score_train": 88.06, "accuracy_score_test": 81.01, "precision_score_test": 82.26, "recall_score_test": 68.92, "f1_score_test": 75.0, "roc_auc_score_test": 0.8897039897039897}]}

@@ -1,6 +1,4 @@
 seaborn
-pandas_profiling
-statsmodels
 scikit-learn
 xgboost
 streamlit

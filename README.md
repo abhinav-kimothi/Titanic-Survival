@@ -11,7 +11,7 @@ The modeling notebook is present in [this location](./Modeling%20Notebook/surviv
 
 We do an extensive EDA and Feature Engineering, try different classification models and then fine-tune four models with high accuracies.
 
-Take a look at the [model metrics](./Data/) and the [confusion matrices, roc curves](./Assets) for the four hyperparameter tuned models -
+Take a look at the [model metrics](./Data/) and the [confusion matrices, roc curves](./Assets) for the four hyperparameter tuned models
 1. Logistic Regression
 2. Random Forest Classifier
 3. XGBoost 
